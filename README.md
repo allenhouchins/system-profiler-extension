@@ -312,5 +312,3 @@ The extension uses the macOS `system_profiler` command with the `-detailLevel ba
 ```
 
 ## License
-
-Same as the parent project. 
